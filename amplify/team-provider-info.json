@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactdynamicogp-dev-143502-authRole",
+      "UnauthRoleArn": "arn:aws:iam::081099599338:role/amplify-reactdynamicogp-dev-143502-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::081099599338:role/amplify-reactdynamicogp-dev-143502-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-reactdynamicogp-dev-143502-deployment",
+      "UnauthRoleName": "amplify-reactdynamicogp-dev-143502-unauthRole",
+      "StackName": "amplify-reactdynamicogp-dev-143502",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:081099599338:stack/amplify-reactdynamicogp-dev-143502/52429de0-2be7-11ec-b4ac-0624e6d2b297",
+      "AmplifyAppId": "d3k8ydztpxdugs"
+    }
+  }
+}
