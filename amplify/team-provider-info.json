@@ -10,6 +10,11 @@
       "StackName": "amplify-reactdynamicogp-dev-143502",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:081099599338:stack/amplify-reactdynamicogp-dev-143502/52429de0-2be7-11ec-b4ac-0624e6d2b297",
       "AmplifyAppId": "d3k8ydztpxdugs"
+    },
+    "categories": {
+      "auth": {
+        "reactdynamicogp8a3f2fc2": {}
+      }
     }
   }
 }
