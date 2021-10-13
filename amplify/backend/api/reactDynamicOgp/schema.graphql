@@ -1,0 +1,9 @@
+type Image @model {
+  id: ID
+  path: String
+  name: String
+  description: String
+  mimeType: String
+  width: Int
+  height: Int
+}
