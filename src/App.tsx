@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom'
-import { Top }  from "./pages/Top"
+import { Top } from "./pages/Top"
+import { Detail } from "./pages/Detail"
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <BrowserRouter>
         <div>
           <Route path="/" exact component={Top} />
+          <Route path="/detail/:id" exact component={Detail} />
         </div>
       </BrowserRouter>
     </div>
